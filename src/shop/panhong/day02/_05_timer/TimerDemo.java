@@ -7,7 +7,7 @@ import java.util.TimerTask;
 class PrintDemo extends TimerTask {
 	public void run() {
 		// 在3秒之后打印内容10次
-		System.out.println("六一节快乐~");
+		System.out.println("国庆节快乐~");
 	}
 }
 
